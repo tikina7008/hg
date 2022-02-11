@@ -1,0 +1,23 @@
+body{
+  background-color: #eeebaa;
+}
+hr{
+  background-color: white;
+  border-style:dashed;
+  width:100%;
+}
+h1{
+  color: pink;
+}
+h2{
+  color:red;
+}
+h3{
+  color:blue;
+}
+h4{
+  color: white;
+}
+h5{
+  color: red;
+}
